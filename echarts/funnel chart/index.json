@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "name": "ECharts Funnel",
   "newInstancePrefix": "EChartFunnel",
-  "description": "EChart Funnel",
+  "description": "EChart Funnel (Sample Data)",
   "icon": "https://raw.githubusercontent.com/ORBIS-DominicB/SAC_CustomWidgets_Public/refs/heads/main/echarts/funnel%20chart/icon_funnel.png",
   "webcomponents": [
     {
