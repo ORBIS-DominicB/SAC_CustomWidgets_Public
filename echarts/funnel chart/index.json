@@ -1,17 +1,17 @@
 {
   "eula": "",
-  "vendor": "ORBIS SE - not working",
+  "vendor": "ORBIS SE",
   "license": "",
-  "id": "com.sap.sac.sample.echarts.prepared",
+  "id": "com.sap.sac.sample.echarts.funnel",
   "version": "1.0.0",
   "name": "ECharts Prepared",
   "newInstancePrefix": "EChartPrepared",
-  "description": "A sample custom widget wrapped EChart Prepared",
+  "description": "EChart Funnel",
   "icon": "https://raw.githubusercontent.com/ORBIS-DominicB/SAC_CustomWidgets_Public/refs/heads/main/echarts/funnel%20chart/icon_funnel.png",
   "webcomponents": [
     {
       "kind": "main",
-      "tag": "com-sap-sample-echarts-prepared",
+      "tag": "com-sap-sample-echarts-funnel",
       "url": "/main.js",
       "integrity": "",
       "ignoreIntegrity": true
