@@ -1,6 +1,6 @@
 {
 	"id": "com.sap.sample.googleGauge",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"name": "Google Gauge Box",
 	"description": "A Google Gauge box",
 	"newInstancePrefix": "googleGauge",
