@@ -4,7 +4,7 @@
 	"name": "Google Gauge Box",
 	"description": "A Google Gauge box",
 	"newInstancePrefix": "googleGauge",
-	"icon": "googleGauge.png",
+	"icon": "https://github.com/ORBIS-DominicB/SAC_CustomWidgets_Public/edit/main/google/gauge/googleGauge.png",
 	"vendor": "SAP Sungyoul Baik",
 	"eula": "",
 	"license": "",
@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-sap-sample-google",
-			"url": "googleGauge.js",
+			"url": "https://github.com/ORBIS-DominicB/SAC_CustomWidgets_Public/edit/main/google/gauge/googleGauge.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
