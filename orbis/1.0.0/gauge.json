@@ -12,14 +12,14 @@
 		{
 			"kind": "main",
 			"tag": "com-orbis-gauge",
-			"url": "https://raw.githubusercontent.com/ORBIS-DominicB/SAC_CustomWidgets_Public/refs/heads/main/orbis/1.0.0/gauge.js",
+			"url": "/gauge.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-orbis-gauge-builder",
-			"url": "https://raw.githubusercontent.com/ORBIS-DominicB/SAC_CustomWidgets_Public/refs/heads/main/orbis/1.0.0/gauge_builder.js",
+			"url": "/gauge_builder.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
