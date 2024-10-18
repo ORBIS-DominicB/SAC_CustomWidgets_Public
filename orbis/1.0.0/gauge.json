@@ -1,6 +1,6 @@
 {
 	"id": "orbis.demo.gauge",
-	"version": "1.0.3",
+	"version": "1.0.0",
 	"name": "Test Gauge",
 	"description": "A gauge test by ORBIS (Uploaded to SAC repository)",
 	"newInstancePrefix": "Gauge",
