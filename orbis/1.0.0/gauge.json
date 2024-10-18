@@ -75,6 +75,22 @@
 			"returnType": "number",
 			"description": "Returns the Gauge value.",
 			"body": "return this.value;"
+		},
+		"setInfo": {
+			"description": "Sets the Gauge info.",
+			"parameters": [
+				{
+					"name": "newInfo",
+					"type": "string",
+					"description": "Gauge info"
+				}
+			],
+			"body": "this.info = newInfo;"
+		},
+		"getInfo": {
+			"returnType": "string",
+			"description": "Returns the Gauge info.",
+			"body": "return this.info;"
 		}
 	},
 	"events": {
