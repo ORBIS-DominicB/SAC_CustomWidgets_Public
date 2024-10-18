@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-sap-sample-google",
-			"url": "https://github.com/ORBIS-DominicB/SAC_CustomWidgets_Public/edit/main/google/gauge/googleGauge.js",
+			"url": "https://raw.githubusercontent.com/ORBIS-DominicB/SAC_CustomWidgets_Public/refs/heads/main/google/gauge/googleGauge.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
