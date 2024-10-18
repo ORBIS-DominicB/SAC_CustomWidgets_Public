@@ -1,0 +1,85 @@
+{
+	"id": "orbis.demo.gauge",
+	"version": "1.0.3",
+	"name": "Test Gauge",
+	"description": "A gauge test by ORBIS",
+	"newInstancePrefix": "Gauge",
+	"icon": "https://bo1.orbis.de:8443/ORBIS_SAC/orbis/gauge/1.0.3/icon.png",
+	"vendor": "ORBIS SE - not working",
+	"eula": "",
+	"license": "",
+	"webcomponents": [
+		{
+			"kind": "main",
+			"tag": "com-orbis-gauge",
+			"url": "https://bo1.orbis.de:8443/ORBIS_SAC/orbis/gauge/1.0.3/gauge.js",
+			"integrity": "",
+			"ignoreIntegrity": true
+		},
+		{
+			"kind": "builder",
+			"tag": "com-orbis-gauge-builder",
+			"url": "https://bo1.orbis.de:8443/ORBIS_SAC/orbis/gauge/1.0.3/gauge_builder.js",
+			"integrity": "",
+			"ignoreIntegrity": true
+		}
+	],
+	"properties": {
+		"value": {
+			"type": "number",
+			"description": "Gauge value",
+			"default": 0
+		},
+		"info": {
+			"type": "string",
+			"description": "Gauge info",
+			"default": ""
+		},
+		"color": {
+			"type": "string",
+			"description": "Text Color info",
+			"default": "#3498db"
+		},
+		"width": {
+			"type": "integer",
+			"default": 272
+		},
+		"height": {
+			"type": "integer",
+			"default": 176
+		}
+	},
+	"methods": {
+		"setValue": {
+			"description": "Sets the Gauge value.",
+			"parameters": [
+				{
+					"name": "newValue",
+					"type": "number",
+					"description": "Gauge value"
+				},
+				{
+					"name": "newInfo",
+					"type": "string",
+					"description": "Gauge info"
+				},
+				{
+					"name": "newColor",
+					"type": "string",
+					"description": "Text Color info"
+				}
+			],
+			"body": "this.value = newValue; this.info = newInfo; this.color = newColor;"
+		},
+		"getValue": {
+			"returnType": "number",
+			"description": "Returns the Gauge value.",
+			"body": "return this.value;"
+		}
+	},
+	"events": {
+		"onClick": {
+			"description": "Called when the user clicks the gauge."
+		}
+	}
+}
