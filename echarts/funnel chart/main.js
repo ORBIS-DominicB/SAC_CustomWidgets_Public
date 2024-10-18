@@ -38,7 +38,7 @@ var getScriptPromisify = (src) => {
     // Scripting methods
     // ------------------
     async render (resultSet) {
-      await getScriptPromisify('https://cdn.bootcdn.net/ajax/libs/echarts/5.0.0/echarts.min.js')
+      await getScriptPromisify('https://cdn.bootcdn.net/ajax/libs/echarts/5.5.0/echarts.min.js')
 
       this._placeholder = this._root.querySelector('#placeholder')
       if (this._placeholder) {
