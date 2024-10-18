@@ -13,8 +13,8 @@
 			"kind": "main",
 			"tag": "com-sap-sample-google",
 			"url": "/googleGauge.js",
-			"integrity": "",
-			"ignoreIntegrity": true
+			"integrity": "sha256-ebpMDn/OZfiXm8i7UGyuzrSrVqqK2Xc8D157fCNdcmw=",
+			"ignoreIntegrity": false
 		}
 	],
 	"properties": {
