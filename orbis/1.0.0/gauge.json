@@ -2,10 +2,10 @@
 	"id": "orbis.demo.gauge",
 	"version": "1.0.3",
 	"name": "Test Gauge",
-	"description": "A gauge test by ORBIS",
+	"description": "A gauge test by ORBIS (Uploaded to SAC repository)",
 	"newInstancePrefix": "Gauge",
 	"icon": "https://raw.githubusercontent.com/ORBIS-DominicB/SAC_CustomWidgets_Public/refs/heads/main/orbis/1.0.0/icon.png",
-	"vendor": "ORBIS SE - not working (GitHub)",
+	"vendor": "ORBIS SE - not working",
 	"eula": "",
 	"license": "",
 	"webcomponents": [
