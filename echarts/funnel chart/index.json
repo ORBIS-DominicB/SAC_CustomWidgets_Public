@@ -7,12 +7,12 @@
   "name": "ECharts Prepared",
   "newInstancePrefix": "EChartPrepared",
   "description": "A sample custom widget wrapped EChart Prepared",
-  "icon": "https://bo1.orbis.de:8443/ORBIS_SAC/echarts/prepared/icon_funnel.png",
+  "icon": "https://raw.githubusercontent.com/ORBIS-DominicB/SAC_CustomWidgets_Public/refs/heads/main/echarts/funnel%20chart/icon_funnel.png",
   "webcomponents": [
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-prepared",
-      "url": "https://bo1.orbis.de:8443/ORBIS_SAC/echarts/prepared/main.js",
+      "url": "https://raw.githubusercontent.com/ORBIS-DominicB/SAC_CustomWidgets_Public/refs/heads/main/echarts/funnel%20chart/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
