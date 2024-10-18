@@ -1,0 +1,44 @@
+{
+  "eula": "",
+  "vendor": "ORBIS SE - not working",
+  "license": "",
+  "id": "com.sap.sac.sample.echarts.prepared",
+  "version": "1.0.0",
+  "name": "ECharts Prepared",
+  "newInstancePrefix": "EChartPrepared",
+  "description": "A sample custom widget wrapped EChart Prepared",
+  "icon": "https://bo1.orbis.de:8443/ORBIS_SAC/echarts/prepared/icon_funnel.png",
+  "webcomponents": [
+    {
+      "kind": "main",
+      "tag": "com-sap-sample-echarts-prepared",
+      "url": "https://bo1.orbis.de:8443/ORBIS_SAC/echarts/prepared/main.js",
+      "integrity": "",
+      "ignoreIntegrity": true
+    }
+  ],
+  "properties": {
+		"width": {
+			"type": "integer",
+			"default": 600
+		},
+		"height": {
+			"type": "integer",
+			"default": 420
+		}
+  },
+  "methods": {
+		"render": {
+			"description": "Render",
+			"parameters": [
+				{
+					"name": "resultSet",
+					"type": "any",
+					"description": "The json"
+				}
+			]
+		}
+	},
+  "events": {
+  }
+}
