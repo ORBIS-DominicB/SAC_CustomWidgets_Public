@@ -2,16 +2,16 @@
   "eula": "",
   "vendor": "ORBIS SE",
   "license": "",
-  "id": "com.sap.sac.sample.echarts.prepared",
+  "id": "com.sap.sac.sample.echarts.sankeysimple",
   "version": "1.0.0",
   "name": "ECharts Sankey Simple",
-  "newInstancePrefix": "EChartPrepared",
+  "newInstancePrefix": "EChartsankey-simple",
   "description": "EChart Sankey Simple (Sample Data)",
   "icon": "https://raw.githubusercontent.com/ORBIS-DominicB/SAC_CustomWidgets_Public/refs/heads/main/echarts/sankey-simple/icon.png",
   "webcomponents": [
     {
       "kind": "main",
-      "tag": "com-sap-sample-echarts-prepared",
+      "tag": "com-sap-sample-echarts-sankeysimple",
       "url": "/main.js",
       "integrity": "",
       "ignoreIntegrity": true
