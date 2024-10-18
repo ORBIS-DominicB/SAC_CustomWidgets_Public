@@ -4,8 +4,8 @@
 	"name": "Test Gauge",
 	"description": "A gauge test by ORBIS",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://bo1.orbis.de:8443/ORBIS_SAC/orbis/gauge/1.0.3/icon.png",
-	"vendor": "ORBIS SE - not working",
+	"icon": "https://raw.githubusercontent.com/ORBIS-DominicB/SAC_CustomWidgets_Public/refs/heads/main/orbis/1.0.0/icon.png",
+	"vendor": "ORBIS SE - not working (GitHub)",
 	"eula": "",
 	"license": "",
 	"webcomponents": [
